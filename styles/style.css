@@ -804,11 +804,8 @@
 #es-loreal.es-loreal .es-faces__single {
   position: relative;
   width: 330px;
-  
 }
-/* #es-loreal.es-loreal .es-faces__single img{
-  object-fit: fill;
-} */
+
 #es-loreal.es-loreal .es-faces__title {
   width: 100%;
   position: absolute;
@@ -834,6 +831,30 @@
   top: 50%;
   left: 100%;
   transform: translate(-100%, -50%);
+}
+
+#es-loreal.es-loreal .es-shades {
+  padding: 0 0 32px ;
+}
+#es-loreal.es-loreal .es-shades__container {
+  /* padding: 32px 16px; */
+  /* min-height: 407px; */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  -webkit-box-pack: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+  gap: 2px 1px;
+}
+#es-loreal.es-loreal .es-shades__single {
+  position: relative;
+  text-align: center;
+  width: 85px;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
 #es-loreal.es-loreal .es-cross {
