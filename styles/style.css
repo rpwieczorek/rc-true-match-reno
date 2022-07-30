@@ -856,6 +856,37 @@
   text-transform: uppercase;
   font-weight: 500;
 }
+#es-loreal.es-loreal .es-shades__subtitle {
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 32px 16px 32px 16px;
+}
+#es-loreal.es-loreal .es-shades__container-2 {
+  /* padding: 32px 16px; */
+  /* min-height: 407px; */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  -webkit-box-pack: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+  gap: 20px 20px;
+}
+#es-loreal.es-loreal .es-shades__single-2 {
+  background-color: white;
+  border-radius: 16px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 300;
+  -webkit-box-shadow: 8px 16px 40px rgba(0, 0, 0, 0.06);
+          box-shadow: 8px 16px 40px rgba(0, 0, 0, 0.06);
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
 
 #es-loreal.es-loreal .es-cross {
   padding: 56px 16px 32px 16px;
