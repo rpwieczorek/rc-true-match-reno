@@ -629,6 +629,10 @@
 #es-loreal.es-loreal .es-faces__single {
   position: relative;
   width: 330px;
+
+}
+#es-loreal.es-loreal .es-faces__single img {
+  width: 100%;
 }
 
 #es-loreal.es-loreal .es-faces__title {
