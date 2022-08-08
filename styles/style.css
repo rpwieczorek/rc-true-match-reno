@@ -713,7 +713,8 @@
 }
 #es-loreal.es-loreal .es-shades__container {
   /* padding: 32px 16px; */
-  /* min-height: 407px; */
+  margin: auto;
+  max-width: 700px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -739,7 +740,6 @@
 }
 #es-loreal.es-loreal .es-shades__container-2 {
   /* padding: 32px 16px; */
-  /* min-height: 407px; */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
