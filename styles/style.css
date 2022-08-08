@@ -596,7 +596,7 @@
 
 #es-loreal.es-loreal .es-formula__text {
   margin: 0;
-  padding: 0;
+  padding: 0 10% 0 0;
   line-height: inherit;
   color: inherit;
   font-family: inherit;
